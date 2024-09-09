@@ -4,7 +4,7 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/T94NN49B5) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-albuquerque-04878b296/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g4el_mca?igsh=MWd6cjAxaDJodmFyMw%3D%3D&utm_source=qr)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=deadcube04&show_icons=true&theme=dark)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadcube04&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadcube04&layout=compact&icons=true&theme=dark)
 
 # Principais Linguagens e frameworks
 <div style = "display: inline_block"><br>
