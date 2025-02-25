@@ -1,7 +1,5 @@
-<div>
-  <p color: #FF5F5F;
-        font-size: medium;>Hello, I'm Gabriel welcome to my Github!
-  </p>
+<div align="center">
+  <p><font color="#FF5F5F">Hello, I'm Gabriel welcome to my Github!</font></p>
 </div>
 
 <br />  
