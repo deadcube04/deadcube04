@@ -1,5 +1,5 @@
 <div align="center">
-  <h3> Hello, I'm Gabriel welcome to my Github! <h3> 
+  <h3> Hello, I'm Gabriel, welcome to my Github! <h3> 
 </div>
 
 
@@ -11,17 +11,18 @@
 <br />
 
 <section align="left">
-   <p>
-     💻 I'm currently studing: <strong>React, GO and SQL </strong> 
-   </p> 
-   
-   <p>
-     💼 i know well: <strong> java, python, django and javascript</strong> 
-   </p> 
-    <p>
-   ⚛️ <strong>Quantum computing</strong> enthusiast.
-   </p>
-    
+<p>  
+   💻 I'm currently studying: <strong>React, Go, and SQL</strong>.  
+</p>  
+
+<p>  
+   💼 I have strong knowledge in <strong>Java, Python, Django, and JavaScript</strong>.  
+</p>  
+
+<p>  
+   ⚛️ Enthusiast of <strong>Quantum Computing</strong>.  
+</p>
+
    <p> 
      📫 You can find me here: ⤵️
    </p>
