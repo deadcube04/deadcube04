@@ -1,7 +1,7 @@
-<div color: #FF5F5F;
-        font-size: medium; align="center">
-  Hello, I'm Gabriel welcome to my Github!
-  
+<div>
+  <p color: #FF5F5F;
+        font-size: medium;>Hello, I'm Gabriel welcome to my Github!
+  </p>
 </div>
 
 <br />  
