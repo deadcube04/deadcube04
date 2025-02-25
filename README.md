@@ -12,12 +12,13 @@
 
 <section align="left">
 <p>  
+   💼 I have strong knowledge in <strong>Java, Python, Django, and JavaScript</strong>.  
+</p>  
+<p>  
    💻 I'm currently studying: <strong>React, Go, and SQL</strong>.  
 </p>  
 
-<p>  
-   💼 I have strong knowledge in <strong>Java, Python, Django, and JavaScript</strong>.  
-</p>  
+
 
 <p>  
    ⚛️ Enthusiast of <strong>Quantum Computing</strong>.  
