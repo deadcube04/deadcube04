@@ -1,13 +1,8 @@
-<div class="title" align="center">
+<div color: #FF5F5F;
+        font-size: medium; align="center">
   Hello, I'm Gabriel welcome to my Github!
   
 </div>
-<style>
-    .title{
-        color: #FF5F5F;
-        font-size: medium;
-    }
-</style>
 
 <br />  
 <br />
@@ -19,11 +14,11 @@
 
 <section align="left">
    <p>
-     💻 I'm currently studing: <strong>Java, GO and SQL </strong> 
+     💻 I'm currently studing: <strong>React, GO and SQL </strong> 
    </p> 
    
    <p>
-     💼 Tools: <strong>VSCode, Git, GitHub, Discord. </strong> 
+     💼 i know well: <strong> java, python, django and javascript</strong> 
    </p> 
     <p>
    ⚛️ <strong>Quantum computing</strong> enthusiast.
@@ -33,7 +28,8 @@
      📫 You can find me here: ⤵️
    </p>
   
-   <div class="contact">
+   <div display: flex;
+        gap: 1%>
   <a href="https://mail.google.com/mail/u/?authuser=gabrielmca2004@gmail.com" alt="Gmail" target="_blank">
      <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=FF5F5F" /></a>
 
