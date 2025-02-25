@@ -1,19 +1,65 @@
+<div class="title" align="center">
+  Hello, I'm Gabriel welcome to my Github!
+  
+</div>
+<style>
+    .title{
+        color: #FF5F5F;
+        font-size: medium;
+    }
+</style>
 
-### Olá, Eu sou Gabriel Albuquerque 🎲
+<br />  
+<br />
 
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-albuquerque-04878b296/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g4el_mca?igsh=MWd6cjAxaDJodmFyMw%3D%3D&utm_source=qr)
+<img align="right" width="500" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=deadcube04&show_icons=true&theme=dark)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadcube04&layout=compact&icons=true&theme=dark)
+<br />  
+<br />
 
-# Principais Linguagens e frameworks
-<div style = "display: inline_block"><br>
-<img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</div> 
+<section align="left">
+   <p>
+     💻 I'm currently studing: <strong>Java, GO and SQL </strong> 
+   </p> 
+   
+   <p>
+     💼 Tools: <strong>VSCode, Git, GitHub, Discord. </strong> 
+   </p> 
+    <p>
+   ⚛️ <strong>Quantum computing</strong> enthusiast.
+   </p>
+    
+   <p> 
+     📫 You can find me here: ⤵️
+   </p>
+  
+   <div class="contact">
+  <a href="https://mail.google.com/mail/u/?authuser=gabrielmca2004@gmail.com" alt="Gmail" target="_blank">
+     <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=FF5F5F" /></a>
 
-### Estudante de Ciencia da computação na C.E.S.A.R. School
+  <a href="https://www.linkedin.com/in/gabriel-albuquerque-04878b296" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=FF5F5F&link=https://www.linkedin.com/in/gabriel-albuquerque-04878b296" /></a>
+</div>
+
+</section>
+
+<br /> 
+<br />  
+
+ 
+##
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deadcube04&theme=FF5F5F&show_icons=true&count_private=true&bg_color=142B37&text_color=fff&hide_border=true&title_color=FF5F5F&icon_color=FF5F5F" width="46%" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=deadcube04&theme=blood_dark&hide_border=true" width="49%" alt="streaks graph" />
+</p>
+<!--<option value="blood-dark" data-background="142B37" data-border="E4E2E2" data-stroke="E4E2E2" data-ring="FF5F5F" data-fire="357291" data-curr-streak-num="FF5F5F" data-side-nums="FF5F5F" data-curr-streak-label="FF5F5F" data-side-labels="FF5F5F" data-dates="FFF" data-exclude-days-label="FFF">blood-dark</option>
+-->
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deadcube04&custom_title=Gabriel's%20GitHub%20Activity%20Graph&bg_color=142B37&color=FF5F5F&line=626069&point=fff&area_color=FF5F5F&title_color=FF5F5F&area=true&hide_border=true" alt="deadcube04 Github Activity Graph" width="96%">
+</div>
+
+##
+<div align="center">
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=deadcube04&theme=darkhub&margin-w=3&margin-h=15"/>
+</div>
