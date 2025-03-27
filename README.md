@@ -46,7 +46,7 @@
 ##
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deadcube04&theme=FF5F5F&show_icons=true&count_private=true&bg_color=142B37&text_color=fff&hide_border=true&title_color=FF5F5F&icon_color=FF5F5F" width="46%" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=deadcube04&theme=blood_dark&hide_border=true" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadcube04&layout=compact&hide_progress=true&bg_color=142B37&hide_border=true&title_color=FF5F5F&text_color=fff&icon_color=FF5F5F" width="46%"/>
 </p>
 <!--<option value="blood-dark" data-background="142B37" data-border="E4E2E2" data-stroke="E4E2E2" data-ring="FF5F5F" data-fire="357291" data-curr-streak-num="FF5F5F" data-side-nums="FF5F5F" data-curr-streak-label="FF5F5F" data-side-labels="FF5F5F" data-dates="FFF" data-exclude-days-label="FFF">blood-dark</option>
 -->
